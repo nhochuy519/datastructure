@@ -1,0 +1,3 @@
+Function call stack (ngăn xếp lời gọi hàm) là một cấu trúc dữ liệu đặc biệt được sử dụng bởi hệ thống để theo dõi thứ tự các hàm đang được gọi 
+và quản lý việc trả về từ các hàm trong một chương trình. Nó hoạt động theo nguyên tắc LIFO (Last In, First Out), tức là hàm được gọi sau cùng 
+sẽ được xử lý trước.
